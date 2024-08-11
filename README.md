@@ -19,10 +19,10 @@
 
 
 ### Connect with Me :
-<a href="https://www.facebook.com/profile.php?id=100092307621731" target="_blank">
-  <img src="https://img.shields.io/badge/-Farouk%20Hashem-4267B2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://linkedin.com/in/farouk-hashem-969475289" target="_blank"><img src="https://img.shields.io/badge/-Farouk%20Hashem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100092307621731" target="_blank"><img src="https://img.shields.io/badge/-Farouk%20Hashem-4267B2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:farouk.hashem25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/farouk-hashem-969475289" target="_blank"><img src="https://img.shields.io/badge/-Farouk%20Hashem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 
