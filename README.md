@@ -12,7 +12,8 @@
 🔧 My skills include Embedded C, ARM Cortex-M microcontrollers, and Verilog HDL.
 🚀 Currently, I'm working on RTL to GDS implementation and embedded automotive systems.
 ⚡ Fun Fact: I love diving deep into low-power design techniques and hardware-software integration.
-Connect with Me:
+
+### Connect with Me :
 <a href="https://linkedin.com/in/farouk-hashem-969475289" target="_blank"><img src="https://img.shields.io/badge/-Farouk%20Hashem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:farouk.hashem25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
